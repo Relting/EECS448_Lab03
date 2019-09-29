@@ -1,11 +1,3 @@
-function inputTextBox1() {
-  var x = document.getElementById("password1").value;
-}
-
-function inputTextBox2() {
-  var y = document.getElementById("password2").value;
-}
-
 
 function checkIfValid() {
 
