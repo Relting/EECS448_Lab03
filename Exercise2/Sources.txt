@@ -1,0 +1,10 @@
+Aside from the lab page, I also used:
+
+This page, to get around the fact that html was returning the absolute path for some friggen 
+reason:
+
+https://www.w3schools.com/jsref/jsref_endswith.asp
+
+This page, to understand image.src:
+
+https://www.w3schools.com/jsref/prop_img_src.asp
