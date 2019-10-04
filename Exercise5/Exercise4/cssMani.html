@@ -1,0 +1,42 @@
+<html>
+        <head>
+                <title> Manipulating CSS </title>
+
+                <script src="jsCssMani.js">
+                </script>
+		
+		<style>
+		p.solid {border-style: solid;}
+		</style>
+
+        </head>
+
+        <body>
+                <br><br>Here we will explore changing the border and background colors of paragraphs in HTML.<br><br>
+
+<p class="solid" id="myPar"> "I am the very model of a modern Major-General,<br>
+I've information vegetable, animal, and mineral,<br>
+I know the kings of England, and I quote the fights historical<br>
+From Marathon to Waterloo, in order categorical;<br>
+I'm very well acquainted, too, with matters mathematical,<br>
+I understand equations, both the simple and quadratical,<br>
+About binomial theorem I'm teeming with a lot o' news,<br>
+With many cheerful facts about the square of the hypotenuse."<br>
+--<a href="https://en.wikipedia.org/wiki/Major-General%27s_Song">The Major-General's Song</a></p>
+
+		<br><br>Input values for the border:<br>
+		<input type="text" id="bordR" placeholder="Input red value (0-255)..." ><br>
+		<input type="text" id="bordG" placeholder="Input green value (0-255)..." ><br>
+		<input type="text" id="bordB" placeholder="Input blue value (0-255)..." ><br>
+		<input type="text" id="bordWid" placeholder="Input width..."><br>
+
+                <br><br>Input values for the background color:<br>
+		<input type="text" id="backR" placeholder="Input red value (0-255)..." ><br>
+		<input type="text" id="backG" placeholder="Input green value (0-255)..." ><br>
+		<input type="text" id="backB" placeholder="Input blue value (0-255)..." ><br>
+
+		<br><br> 
+                <button onclick="updateValues()">Update values</button>
+        </body>
+</html>
+

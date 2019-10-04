@@ -1,0 +1,15 @@
+In addition to the lab page, I used this website to figure out text boxes:
+
+https://www.w3schools.com/jsref/dom_obj_text.asp
+
+And this page to double check linking .js with .html:
+
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_script_src
+
+And this page to find the length of a variable:
+
+https://www.w3schools.com/jsref/jsref_length_string.asp
+
+And this gave info on passwords:
+
+https://www.w3schools.com/jsref/prop_password_placeholder.asp

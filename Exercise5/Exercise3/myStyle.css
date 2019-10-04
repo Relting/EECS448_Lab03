@@ -1,0 +1,28 @@
+p
+{
+    background-color: white;
+    color: black;
+    font-family: arial;
+}
+
+p.title
+{
+    background-color: white;
+    color:black;
+    font-family: arial;
+    font-size: 30;
+}
+
+body
+{
+
+    background-image: url(https://wallpaperbro.com/img/310271.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+a:hover
+{
+    color: blue
+}
